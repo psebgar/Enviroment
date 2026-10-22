@@ -20,3 +20,6 @@ for i in range(filas):
         valor = int(input(f"Elemento en posición [{i}][{j}]: "))
         fila_actual.append(valor)
     array_numbers.append(fila_actual)
+
+    hola= 2
+    
